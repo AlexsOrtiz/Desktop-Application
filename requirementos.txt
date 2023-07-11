@@ -1,0 +1,2 @@
+# requirementos.txt
+tkinter==8.6
